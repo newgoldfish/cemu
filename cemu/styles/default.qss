@@ -7,4 +7,5 @@ QTextEdit,
 QLineEdit,
 QTableWidget {
     background-color: white;
+    color: black;
 }
